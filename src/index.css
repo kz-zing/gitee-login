@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+:root {
+  margin: 0;
+  padding: 0;
+  min-width: 1040px;
+  height: 100%;
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Arial, sans-serif;
+}
